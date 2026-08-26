@@ -107,22 +107,6 @@ Meu principal objetivo é encontrar um ambiente onde eu possa **aprender com pro
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/wagner-am2006">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagner-am2006&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
-</a>
-
-<a href="https://github.com/wagner-am2006">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagner-am2006&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas">
-</a>
-
-</div>
-
-
----
 
 ## 📈 Minha jornada
 
